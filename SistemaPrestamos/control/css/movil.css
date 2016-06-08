@@ -1,0 +1,6 @@
+@media screen and (min-width:50px) and (max-width:800px) {
+			
+		#photos li {
+
+			display:inline;
+		}

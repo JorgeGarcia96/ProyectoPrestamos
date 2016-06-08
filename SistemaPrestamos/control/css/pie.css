@@ -1,0 +1,25 @@
+/* vietnamese */
+footer p{
+  padding-top:15px;
+  font-family: 'Patrick Hand', cursive;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;  
+}
+footer {
+  
+  background-image: url(../img/pie.png); 
+
+  background-repeat:repeat-x;
+  height: 92px;   
+  border: 0px;  
+  margin: 0px auto;
+  margin-top:0px;
+}
+
+
+
+
+
+
+

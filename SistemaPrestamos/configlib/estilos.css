@@ -1,0 +1,138 @@
+/*Generales***********************/
+body {
+	font-family: Verdana, Arial;
+	font-size: 14px
+}
+a{
+	text-decoration: none;
+}
+
+/*Bloques***************************/
+/*Topmenu***************************/
+.topmenu{
+	background:#CCFFCC;
+	text-align: right;
+	width:100%;
+	font-size: 120%;
+	border-bottom: 0px solid #FFFFFF;
+	padding: 1px;
+	box-shadow: 0 5px 50px #000000;
+	position:fixed;top:0px;
+}
+
+
+
+
+/*iurhtkijrdtgirehgirthguthiur agrega lo que falta de 20pc;*/
+
+.topmenu a:hover{
+	color: #3300CC;
+	text-decoration: underline;
+
+}
+/**************************************/
+/*Menu*********************************/
+.menu{
+	color: #000000;
+	border: 1px solid #CCC;
+	padding: 5px;
+	margin: 3px 10px 5px 15px;
+	border-radius: 5px;
+	box-shadow:  3px 3px 10px #000000;
+	
+
+}
+
+.menu ul{
+	list-style: none;
+}
+
+.menu li{
+	display: inline;
+	padding: 10px 10px
+}
+
+.menu li:hover{
+	background: #DDF;
+}
+
+.menu a:hover{
+	color: #000000;
+}
+
+.formulario{
+	color: #000000;
+
+
+	width: 98%;
+	border: 1px solid #CCC;
+	box-shadow:  3px 3px 10px #808080;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+/************************************************/
+.cabecera{
+	color: #4A4A4A;
+	font-size: smaller; 
+}
+/*aviso*****************************************/
+.aviso{
+	border: 1px solid #99CCCC;
+	border-radius: 5px;
+	background-color: #FFFFCC;
+	width: 100%;
+	text-align: center;
+	margin: 10px auto;
+	padding: 10px;
+	color: #99CCFF;
+}
+
+
+.aviso a{
+	color: #2DB300;
+}
+
+
+
+.acercade{
+	font: 150% sans-serif;
+	font-size: 130%; 
+	border: 1px;
+	border-radius: 10px;
+	box-shadow:  3px 3px 10px #000000;
+	width: 1190px;
+	margin: 10px auto;
+	padding: 5px;
+	color: #000000;
+}
+
+
+
+
+.efectof{
+	background-image: url(); /* Imagen con desenfoque */
+	background-attachment: fixed;
+	padding: 0px; /* Opcional */
+	margin: 50px auto; /* Opcional */
+}
+
+
+
+
+nav.acceder #login-content {
+  display: none;
+  position: absolute;
+  top: 24px;
+  right: 0;
+  z-index: 999;    
+  background: #fff;
+  padding: 15px;
+  box-shadow: 0 2px 2px -1px rgba(0,0,0,.9);
+  border-radius: 10px 0 10px 10px;
+  width: 250px; 
+}
+.Formulario1{
+  color: #FFF;
+}
